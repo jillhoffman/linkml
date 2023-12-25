@@ -1,0 +1,7 @@
+---
+name: testing
+author: Jill Hoffman <jill.hoffman@cuanschutz.edu>
+description: testing for ontogpt
+source_schema_path: src/testing/schema/testing.yaml
+google_sheet_id: 1wVoaiFg47aT9YWNeRfTZ8tYHN8s8PAuDx5i2HUcDpvQ
+google_sheet_tabs: personinfo enums
